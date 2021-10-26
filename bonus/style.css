@@ -30,6 +30,7 @@ main, footer{
 }
 
 .titoletto{
+    color: grey;
     font-size: 25px;
 }
 
@@ -52,6 +53,14 @@ section{
 
 ul{
     list-style-position: inside;
+}
+
+.sinistra{
+    width: 25%;
+}
+
+.destra{
+    width: 50%;
 }
 
 table{
