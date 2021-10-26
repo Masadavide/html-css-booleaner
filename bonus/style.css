@@ -78,6 +78,14 @@ thead{
     color: white;
 }
 
+th{
+    width: 25%;
+}
+
+.destra{
+    width: 50%;
+}
+
 
 tbody{
     background-color: paleturquoise;

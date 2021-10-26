@@ -40,6 +40,11 @@ section{
     margin-top: 20px;;
 }
 
+.immagini img{
+    width: 49%;
+    height: 463px;
+}
+
 .sottolineato{
     background-color: yellow;  
 }
@@ -56,6 +61,14 @@ thead{
     background-color: dodgerblue;
     color: white;
 }
+
+th{
+    text-align: left;
+    width: 25%;
+}
+
+.destra{
+    width: 50%;}
 
 tbody{
     background-color: paleturquoise;
