@@ -48,6 +48,10 @@ ul{
     list-style-position: inside;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 thead{
     background-color: dodgerblue;
     color: white;
