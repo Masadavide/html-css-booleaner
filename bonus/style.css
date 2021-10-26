@@ -51,6 +51,10 @@ section{
     background-color: yellow;  
 }
 
+ul{
+    list-style-position: inside;
+}
+
 thead{
     background-color: dodgerblue;
     color: white;
